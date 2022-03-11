@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "marijuanez"
-  }
+    "default": "marijuanez",
+    "marijuanez": "marijuanez"
+  },
+  "targets": {}
 }
